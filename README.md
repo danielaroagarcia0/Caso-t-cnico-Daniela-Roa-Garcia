@@ -105,41 +105,16 @@ Si deseas probar la aplicación de forma inmediata **sin instalar Node.js ni con
 
 - **Archivo**: `Software_Synthex_Demo_Portatil.html` *(Single-File Standalone)*
 - **Instrucción**: Basta con dar **doble clic** sobre el archivo `Software_Synthex_Demo_Portatil.html` para ejecutar toda la aplicación interactiva con los 10 módulos offline en cualquier navegador (Chrome, Edge, Safari, Firefox).
+- **Cumplimiento al ejercicio** en el se solicitaba Prototipo interactivo que corra y al que podamos acceder. 
 
----
 
-## 🛠️ Guía para Subir el Proyecto a GitHub
-
-Si deseas publicar este proyecto en tu cuenta de GitHub, ejecuta los siguientes comandos en tu terminal:
-
-```bash
-# 1. Inicializar repositorio git
-git init
-
-# 2. Agregar todos los archivos al staging
-git add .
-
-# 3. Crear el primer commit descriptivo
-git commit -m "feat: Lanzamiento de Software Synthex by Daniela Roa v1.0"
-
-# 4. Cambiar el nombre de la rama a main
-git branch -M main
-
-# 5. Conectar con tu repositorio de GitHub (Reemplaza con tu URL)
-git remote add origin https://github.com/tu-usuario/software-synthex-panificadora.git
-
-# 6. Subir el código a GitHub
-git push -u origin main
-```
-
----
 
 ## ✒️ Autor y Créditos
 
-- **Desarrolladora**: Daniela Roa
-- **Proyecto**: Caso Técnico ERP & Manufactura Industrial
+- **Desarrolladora y product owner**: Daniela Roa Garcia
+- **Proyecto**: Caso Técnico Manufactura Industrial
 - **Empresa Modelo**: Panificadora Daniela SAS
-- **Software**: *Software Synthex by Daniela Roa*
+- **Software prototipo**: *Software Synthex by Daniela Roa*
 
 ---
-*Synthex Software &copy; 2024. Todos los derechos reservados.*
+*Synthex Software &copy; 2026. Todos los derechos reservados by Daniela Roa.*
