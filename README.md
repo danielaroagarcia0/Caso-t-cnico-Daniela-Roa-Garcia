@@ -13,7 +13,7 @@
 
 **Software Synthex** es una plataforma integral de gestión de operaciones de manufactura industrial de panadería diseñada para **Panificadora Daniela SAS**. 
 
-Combina la supervisión estratégica de la gerencia C-Suite con la ejecución táctica del piso de planta. Permite controlar en tiempo real el ciclo completo de valor: **Abastecimiento de insumos &rarr; Entradas a Muelle &rarr; Control Multibodega &rarr; Formulación BOM &Rutado &rarr; Simulación Financiera &rarr; Ejecución Kanban de Producción &rarr; Remisiones & Facturación &rarr; Auditoría de Trazabilidad Invima**.
+Combina la supervisión estratégica de la gerencia C-Suite con la ejecución táctica del piso de planta. Permite controlar en tiempo real el ciclo completo de valor: **Abastecimiento de insumos &rarr; Entradas a Muelle &rarr; Control Multibodega &rarr; Formulación BOM & rutas &rarr; Simulación Financiera &rarr; Ejecución Kanban de Producción &rarr; Remisiones & Facturación &rarr; Auditoría de Trazabilidad y control de salidas**.
 
 ---
 
