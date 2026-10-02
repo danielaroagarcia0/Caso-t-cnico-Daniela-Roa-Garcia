@@ -68,7 +68,7 @@ ADMINISTRACIÓN Y SEGURIDAD
 
 ---
 
-## 🚀 Instrucciones de Instalación y Puesta en Marcha
+## 🚀 Instrucciones de Instalación y Puesta en Marcha (sugerencias de google antigravity para el funcionamiento de la app)
 
 Sigue estos pasos sencillos para clonar y ejecutar el proyecto en tu máquina local:
 
