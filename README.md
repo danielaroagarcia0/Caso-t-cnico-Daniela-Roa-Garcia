@@ -45,17 +45,16 @@ ADMINISTRACIÓN Y SEGURIDAD
 
 ### 📋 Detalle de Funcionalidades por Módulo:
 
-1. **0. Dashboard Gerencial — Visión 360°**: Tablero C-Suite con 6 KPIs top (*Facturación $284.5M*, *Margen Bruto 34.8%*, *OEE 89.2%*, *OTIF 96.4% esta informacion es de ejemplo como una prueba dinamica de la funcionalidad*), sugerencias predictivas del **Synthex AI Copilot** y desglose de 5 pilares operativos.
+1. **0. Dashboard Gerencial — Visión 360°**: Tablero C-Suite con 6 KPIs top (*Facturación $284.5M*, *Margen Bruto 34.8%*, *OEE 89.2%*, *OTIF 96.4% esta informacion es de ejemplo como una prueba dinamica de la funcionalidad*), sugerencias predictivas del **Synthex AI Copilot** y desglose de indicadores clave
 2. **1. Maestros de Ítems & Compras**: Catálogo técnico de SKUs, punto de reorden, requisiciones sugeridas por IA y emisión de Órdenes de Compra y solicitudes las cuales son clave en el modulo de inventarios.
 3. **2. Entradas de Inventario**: Recepción muelle vinculada a O.C., captura de factura de proveedor, lote de insumo, temperatura y vencimiento FEFO.
-4. **3. Inventario Actual & Bodegas**: Selector de 3 bodegas físicas (*B-01 Materia Prima*, *B-02 En Proceso WIP*, *B-03 Producto Terminado esta informacion es de ejemplo como una prueba dinamica de la funcionalidad*), toma física para conteo cíclico, cierre fiscal Dian y ajustes manuales por mermas/muestras.
-5. **4. Facturación & Remisiones**: Flujo estricto de despacho **Primero Remisión, Luego Factura** para descontar stock de Producto Terminado y liquidar cartera.
+4. **3. Inventario Actual & Bodegas**: Selector de 3 bodegas físicas (*B-01 Materia Prima*, *B-02 En Proceso WIP*, *B-03 Producto Terminado esta informacion es de ejemplo como una prueba dinamica de la funcionalidad*), toma física para conteo cíclico, cierre fiscal  y ajustes manuales por mermas/muestras.
+5. **4. Facturación & Remisiones**: Flujo estricto de despacho **Primero Remisión, Luego Factura** para descontar stock de Producto Terminado
 6. **5. Ingeniería de Producto & Procesos**: Ficha técnica con Estructura BOM (listado de materiales de cada semiprocesado y producto terminado), definición de Centros de Trabajo (tarifas min. MOD/CIF) y Rutas Operativas.
-7. **6. Simulador de Costos & Hoja de Costos por Producto**: Análisis financiero de sensibilidad *What-If* y desglose en Hoja de Costos por lote/unidad con punto de equilibrio.
-8. **7. Control de Piso de Producción**: Lanzamiento de Órdenes de Producción, tablero Kanban en vivo, liquidación automática de insumos MP y entregas a bodega.
-9. **8. Auditoría de Salidas y Trazabilidad**: Kardex inmutable, trazabilidad forense Invima en 1.4s (del Lote PT a la O.C.) y simulador de Recall sanitario.
-10. **9. Usuarios & Permisos**: Administración de perfiles, código PIN de seguridad de 4 dígitos, matriz granular de accesos por módulo y registro de auditoría.
-
+7. **6. Simulador de Costos & Hoja de Costos por Producto**: Herramienta para predecir costos de nuevos productos y desglose en Hoja de Costos por lote/unidad con punto de equilibrio.
+8. **7. Control de Piso de Producción**: Seguimiento del flujo de trabajo en planta es el corazón de la aplicación muestra las ordenes de producción de semiprocesados, productos terminados de igual forma los consumos de producción y entregas de producto terminado a sus respectivas bodegas para su remisión y facturación
+9. **8. Auditoría de Salidas y Trazabilidad**:  Historial completo de las salidas, ajustes con sus respectivos responsables
+10. **9. Usuarios & Permisos**: AdGestión de accesos y roles de usuario administrador y personal de plan.
 ---
 
 ## 💻 Tecnologías Utilizadas (importante esta técnologia fue utilizada por la IA antigravity de google)
